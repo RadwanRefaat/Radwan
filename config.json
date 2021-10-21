@@ -1,0 +1,9 @@
+{
+  "bot": {
+    "id": "878022130657296414",
+    "secret": "v2iTIBKbkXyhvCxGkHNI_n6HHt_YA4fA",
+    "token": "ODc4MDIyMTMwNjU3Mjk2NDE0.YR7H1A.y-BoiG55y6Q6fPJa-GsnX_DTNas"
+  },
+  "dashboardURL": "http://localhost:3000",
+  "mongoURI": "mongodb+srv://Radwan:RadwanTest@cluster0.uhhoh.mongodb.net/Data"
+}
